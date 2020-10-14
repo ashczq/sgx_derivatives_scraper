@@ -1,0 +1,14 @@
+[2020-08-14 23:54:04,280] {extract.py:78} INFO - Downloading yesterday files
+[2020-08-14 23:54:11,925] {extract.py:101} ERROR - Incorrect website link given please check link and run script again
+[2020-08-14 23:54:11,927] {connectionpool.py:752} WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f279bbfa390>: Failed to establish a new connection: [Errno 111] Connection refused',)': /session/39861c57e55d3aef7638b11e555e292e/elements
+[2020-08-14 23:54:11,929] {connectionpool.py:752} WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f279bc18320>: Failed to establish a new connection: [Errno 111] Connection refused',)': /session/39861c57e55d3aef7638b11e555e292e/elements
+[2020-08-14 23:54:11,930] {connectionpool.py:752} WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f279bc18e10>: Failed to establish a new connection: [Errno 111] Connection refused',)': /session/39861c57e55d3aef7638b11e555e292e/elements
+[2020-08-15 00:02:31,461] {extract.py:78} INFO - Downloading yesterday files now
+[2020-08-15 00:02:47,297] {extract.py:188} INFO - The file has not been updated or uploaded on SGX website, please try again at a later time
+[2020-08-15 00:04:02,671] {extract.py:71} INFO - Incorrect data format:13-08-20200 , should be in DD-MM-YYYY
+[2020-08-15 00:04:02,671] {extract.py:76} INFO - There are no dates input that is in the correct format, exiting script
+[2020-08-15 00:04:24,586] {extract.py:74} INFO - Date list:['13 Aug 2020']
+[2020-08-15 00:05:23,837] {extract.py:176} INFO - WEBPXTICK_DT-20200813.zip has been successfully downloaded
+[2020-08-15 00:05:23,837] {extract.py:176} INFO - TickData_structure.dat has been successfully downloaded
+[2020-08-15 00:05:23,838] {extract.py:176} INFO - TC_structure.dat has been successfully downloaded
+[2020-08-15 00:05:23,838] {extract.py:176} INFO - TC_20200813.txt has been successfully downloaded
