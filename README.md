@@ -1,7 +1,5 @@
 ==============================
 
-Author: Ashley Chan Zheng Qun
-
 Writeup of assignment available under reports/writeup.docx
 
 ------------
