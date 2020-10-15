@@ -1,4 +1,2 @@
-main.py
-Untitled.ipynb
-Untitled1.ipynb
-EDA.ipynb
+/main.py
+*.ipynb
