@@ -1,9 +1,5 @@
 ==============================
 
-Author: Ashley Chan Zheng Qun
-
-Application for data engineer position at Dynamic Technology Lab
-
 Writeup of assignment available under reports/writeup.docx
 
 ------------
